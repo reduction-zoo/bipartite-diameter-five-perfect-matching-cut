@@ -1,0 +1,3 @@
+import Challenge
+#print axioms BipartiteDiameterFivePerfectMatchingCut.Goal
+#print axioms BipartiteDiameterFivePerfectMatchingCut.solve
